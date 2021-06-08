@@ -1,1 +1,1 @@
-# test-submodule-child2
+# test-submodule-child3
